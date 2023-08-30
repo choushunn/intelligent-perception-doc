@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as o,b as e,e as r}from"./app-05f19dc6.js";const c={},s=e("h2",{id:"uml",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#uml","aria-hidden":"true"},"#"),r(" UML")],-1),n=[s];function _(l,d){return a(),o("div",null,n)}const h=t(c,[["render",_],["__file","uml.html.vue"]]);export{h as default};
