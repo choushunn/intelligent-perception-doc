@@ -23,6 +23,7 @@ title: 常用软件
 - [JetBrains Tool Box](https://www.jetbrains.com/toolbox-app/)
 - [git](https://git-scm.com/)
 - [draw.io](https://www.drawio.com/)-画图工具
+- [WebSocket 在线测试工具](http://wstool.js.org/)
 ## C++ 
 - [编译工具 CMake](https://cmake.org/download/)
 - [构建工具 Ninja](https://ninja-build.org/)
@@ -49,3 +50,4 @@ title: 常用软件
 ## GitHub
 - [best-of-lists](https://github.com/best-of-lists/best-of)
 - [Awesome lists](https://github.com/sindresorhus/awesome)
+- [程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)

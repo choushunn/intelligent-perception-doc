@@ -44,6 +44,7 @@ export default hopeTheme({
 	fullscreen: true,
 
 	plugins: {
+		photoSwipe:true,
 		autoCatalog:true,
 		components: {
 			components: [
@@ -68,6 +69,7 @@ export default hopeTheme({
 			},
 		},
 		git: true,
+		
 		// You should generate and use your own comment service
 		// comment: {
 		//   provider: "Giscus",

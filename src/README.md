@@ -30,19 +30,27 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 ## 安装
 ```bash
-# clone 项目
+# 克隆项目
 git clone https://github.com/choushunn/intelligent-perception-doc
-# 进入项目目录
+
+# 进入项目所在目录
 cd intelligent-perception-doc
-# 安装项目依赖
-npm install
+
+# 安装pnpm包管理器
+npm i pnpm -g
+
+# 设置pnpm的镜像源为淘宝镜像
+pnpm config set registry http://registry.npm.taobao.org
+
+# 安装项目所需的依赖项
+pnpm install
 ```
 
 ## 使用
 
-```
+```bash
 # 运行项目
-npm run docs:dev
+pnpm run docs:dev
 ```
 
 

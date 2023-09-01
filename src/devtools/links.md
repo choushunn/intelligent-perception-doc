@@ -28,19 +28,14 @@ title: 常用链接
 ## 项目
 - [README生成](https://readme.so/editor)
 
-
-[Docker](https://docs.docker.com/engine/install/ubuntu/)
-[Docker Hub](https://hub.docker.com/search?q=)
-[pip 换源]
-[conda 换源]
-[Python](https://www.python.org/)
-[Miniconda](https://docs.conda.io/en/latest/miniconda.html)
-[Vue](https://vuejs.org/)
-
-
-
-[GitHub Docs](https://docs.github.com/zh)
-
-[Vben Admin](https://doc.vvbin.cn/)
-
-[vue-element-plus-admin](https://element-plus-admin-doc.cn/)
+- [GitHub Docs](https://docs.github.com/zh)
+- [GitHub 加速下载](https://github.ur1.fun/)
+- [GitHub Proxy](https://ghproxy.com/)
+- [Java 全栈知识体系](https://pdai.tech/)
+- [100-Days-Of-AI-Code](https://github.com/weslynn/100-Days-Of-AI-Code)
+## Web应用开发
+- [Vue](https://vuejs.org/)
+- [Vben Admin](https://doc.vvbin.cn/)
+- [vue-element-plus-admin](https://element-plus-admin-doc.cn/)
+## GO
+- [Go 模块代理](https://goproxy.cn/)
