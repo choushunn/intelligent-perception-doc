@@ -5,7 +5,7 @@ title: 常用链接
 ## AI 工具
 - [AI Assistant Poe](https://poe.com/)
 - [学术版GPT](https://academic.chatwithpaper.org/)
-
+- [AI工具集](https://ai-bot.cn/)
 ## 竞赛
 - [中国研究生系列大赛](https://cpipc.acge.org.cn/)
 - [赛氪网](https://www.saikr.com/vs/mcm)

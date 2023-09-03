@@ -2,6 +2,8 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme/theme.js";
 import { gitPlugin } from "@vuepress/plugin-git";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { getDirname, path } from '@vuepress/utils'
 export default defineUserConfig({
 	base: "/",
 	lang: "zh-CN",
@@ -12,6 +14,10 @@ export default defineUserConfig({
 	// Enable it with pwa
 	// shouldPrefetch: false,
 	plugins: [
+		registerComponentsPlugin({
+			// 配置项
+			componentsDir: path.resolve(__dirname, './components')
+		}),
 		gitPlugin({
 			// 配置项
 			createdTime: false

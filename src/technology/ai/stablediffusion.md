@@ -4,7 +4,10 @@
 [Hugging Face](https://huggingface.co/)
 [civitai](https://civitai.com/)
 
+[AI提示词加速器](https://ai.dawnmark.cn/)
+[魔咒百科词典](https://aitag.top/)
 
+[](https://www.codetd.com/article/15622621)
 ## 分类
 - 二次元：
 1.最受欢迎的二次元模型：Anything

@@ -53,7 +53,7 @@ pnpm install
 pnpm run docs:dev
 ```
 
-
+<CustomPage></CustomPage>
 
 <style>
   .image-preview {
