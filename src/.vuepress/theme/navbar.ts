@@ -32,7 +32,7 @@ export default navbar([
 	},
 	{
 		text: '常用资源',
-		link: '/devtools/',
+		link: '/resources/',
 	},
 	{
 		text: '了解更多',
