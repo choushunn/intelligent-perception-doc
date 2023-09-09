@@ -46,7 +46,7 @@ pnpm config set registry http://registry.npm.taobao.org
 pnpm install
 ```
 
-## 使用
+## 运行
 
 ```bash
 # 运行项目
