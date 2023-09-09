@@ -11,7 +11,7 @@ title: 常用软件
 - [Chrome 浏览器](https://www.google.cn/intl/zh-CN/chrome/)
 - [Office Tool Plus](https://otp.landian.vip/zh-cn/)
 ## 科学上网
-- [Clash](https://github.com/Dreamacro/clash/releases)
+- [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 - [iGuge](https://iguge.net/)
 - [OpenVPN](https://openvpn.net/community-downloads/)
 ## 开发工具
@@ -24,6 +24,8 @@ title: 常用软件
 - [git](https://git-scm.com/)
 - [draw.io](https://www.drawio.com/)-画图工具
 - [WebSocket 在线测试工具](http://wstool.js.org/)
+- [特色流程图](https://excalidraw.com/)
+- [在线LaTeX公式编辑器](https://www.latexlive.com/home)
 ## C++ 
 - [编译工具 CMake](https://cmake.org/download/)
 - [构建工具 Ninja](https://ninja-build.org/)
@@ -47,7 +49,3 @@ title: 常用软件
 - [小恐龙公文排版助手](https://gw.xkonglong.com/#/)
 - [DevToys](https://github.com/veler/DevToys)
 
-## GitHub
-- [best-of-lists](https://github.com/best-of-lists/best-of)
-- [Awesome lists](https://github.com/sindresorhus/awesome)
-- [程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
