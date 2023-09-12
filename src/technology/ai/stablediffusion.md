@@ -1,4 +1,6 @@
-# Stable Diffusion
+---
+title: 扩散模型
+---
 
 
 [Hugging Face](https://huggingface.co/)
