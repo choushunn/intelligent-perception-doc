@@ -19,8 +19,8 @@ git clone https://github.com/your-username/intelligent-perception-doc
 # 进入项目所在目录
 cd intelligent-perception-doc
 
-# 创建并切换到一个新的分支
-git checkout -b <branch_name>
+# 创建并切换到一个 develop 分支
+git checkout -b develop
 
 # 安装 pnpm 包管理器
 npm i pnpm -g
@@ -71,7 +71,7 @@ git add .
 git commit -m "添加了新的代码"
 
 # 推送到远程仓库
-git push origin <branch_name>
+git push origin develop
 ```
 ## 建议阅读
 另外，建议您阅读以下相关项目，以更好地理解本项目的构建方式：
