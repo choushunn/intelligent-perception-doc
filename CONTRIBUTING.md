@@ -42,7 +42,20 @@ pnpm run docs:dev
 - [Markdown 介绍](https://theme-hope.vuejs.press/zh/cookbook/markdown/) 
 - [Markdown 增强](https://plugin-md-enhance.vuejs.press/zh/)
 - [Markdown 演示](https://theme-hope.vuejs.press/zh/cookbook/markdown/demo.html)。
-
+## 项目结构
+```bash
+# 项目目录结构
+intelligent-perception-doc   # 项目根目录
+└─src                        # 代码目录
+   ├─guide                   # 指北目录
+   ├─more                    # 了解更多目录
+   ├─resources               # 常用资源目录
+   └─technology              # 必修课目录
+      ├─ai
+      ├─deployment
+      ├─development
+      └─embedded
+```
 在新分支上进行修改并提交更改：
 
 ```bash
