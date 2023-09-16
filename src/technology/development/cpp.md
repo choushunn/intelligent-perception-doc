@@ -1,8 +1,10 @@
 ---
-lang: zh-CN
 title: C/C++
-description: 页面的描述
 ---
+::: info
+C/C++ 很重要。
+:::
+
 
 ## 参考资料
 [C++教程](https://www.runoob.com/cplusplus/cpp-intro.html)
