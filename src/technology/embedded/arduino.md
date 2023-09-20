@@ -8,7 +8,6 @@ Arduino是一款便捷灵活、方便上手的开源电子原型平台。包含�
 ## 参考资料
 - [零基础入门学用Arduino](https://www.bilibili.com/video/BV164411J7GE)
 - [AccelStepper 库](http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/accelstepper-library/)-步进电机控制库
-- [Arduino 中文社区](https://www.arduino.cn/)
 - [Arduino GitHub](https://github.com/arduino)
 - [知乎 Arduino 教程](https://zhuanlan.zhihu.com/p/52940035)
 - [DRV8825](https://www.crcibernetica.com/stepstick-8825-stepper-motor-driver-for-ramps-1-4-boards/)-步进电机控制驱动

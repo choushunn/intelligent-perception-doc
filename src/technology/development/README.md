@@ -1,6 +1,6 @@
 ---
 title: 软件开发
-shortTitle: 简介
+shortTitle: 介绍
 ---
 ::: warning
 本页面主要用于介绍软件开发相关内容。

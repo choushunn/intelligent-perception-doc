@@ -1,6 +1,6 @@
 ---
 title: 嵌入式
-shortTitle: 简介
+shortTitle: 介绍
 ---
 
 ::: warning

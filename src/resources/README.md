@@ -1,5 +1,6 @@
 ---
 title: 介绍
+shortTitle: 介绍
 ---
 
 ::: tip

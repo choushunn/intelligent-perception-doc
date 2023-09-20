@@ -1,6 +1,6 @@
 ---
 title: 人工智能
-shortTitle: 简介
+shortTitle: 介绍
 ---
 ::: tip
 本页面主要用于介绍人工智能相关内容。

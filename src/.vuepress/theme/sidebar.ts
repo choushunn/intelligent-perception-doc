@@ -2,13 +2,13 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
 	'/guide/': [{
-		text: '快速入门',
+		text: '使用指北',
 		link: "/guide/",
 		children: "structure",
 	},
 	],
 	'/technology/': [{
-		text: "核心知识",
+		text: "必修课",
 		children: [
 			"",
 			{
@@ -43,6 +43,12 @@ export default sidebar({
 		text: "常用资源",
 		link: "/resources/",
 		children: "structure",
+	},
+	], '/more/': [{
+		text: "了解更多",
+		link: "/more/",
+		children: "structure",
+
 	},
 	],
 });
