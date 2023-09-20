@@ -1,5 +1,6 @@
 ---
 title: C/C++
+order: 2
 ---
 ::: info
 C/C++ 很重要。

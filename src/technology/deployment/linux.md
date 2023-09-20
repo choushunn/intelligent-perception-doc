@@ -1,5 +1,6 @@
 ---
 title: Linux
+order: 1
 ---
 ::: info
 Linux 是开发和实验验证常用的常用系统，建议学会 Ubuntu 系统的基本操作。

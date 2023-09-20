@@ -1,5 +1,6 @@
 ---
 title: Python
+order: 1
 ---
 ::: info
 Python 很重要。

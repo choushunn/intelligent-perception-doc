@@ -1,5 +1,6 @@
 ---
 title: 服务部署
+shortTitle: 简介
 ---
 
 ## 介绍
