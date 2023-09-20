@@ -13,6 +13,12 @@ title: AIGC
 [魔咒百科词典](https://aitag.top/)
 [Stable Diffusion系列课程](https://www.codetd.com/article/15622621)
 
+
+## stable-diffusion-webui 插件
+- 插件列表 https://api.enjoywangjing.cn/static/index.json
+- 汉化 https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
+- 界面主题 https://github.com/lobehub/sd-webui-lobe-theme
+- 提示词 https://github.com/Physton/sd-webui-prompt-all-in-one
 ## 模型分类
 - 二次元
 1. 最受欢迎的二次元模型：Anything

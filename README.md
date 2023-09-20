@@ -4,7 +4,7 @@
 
 ## Documentation
 
-http://doc.yfengl.cn
+http://8.130.75.226:8080/
 
 ## Contribution
 

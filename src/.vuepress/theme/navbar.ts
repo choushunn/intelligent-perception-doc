@@ -11,7 +11,7 @@ export default navbar([
 	},
 	{
 		text: '必修课',
-		prefix:'/technology/',
+		prefix: '/technology/',
 		children: [
 			{
 				text: '软件开发',
@@ -20,6 +20,9 @@ export default navbar([
 			{
 				text: '人工智能',
 				link: 'ai/',
+			}, {
+				text: '应用领域',
+				link: 'fields/',
 			}, {
 				text: '嵌入式',
 				link: 'embedded/',
@@ -36,12 +39,12 @@ export default navbar([
 	},
 	{
 		text: '了解更多',
-		prefix:'/more/',
+		prefix: '/more/',
 		children: [
 			{
 				text: '关于我们',
 				link: 'about/',
-			},			
+			},
 			{
 				text: '现有项目',
 				link: 'project/',
