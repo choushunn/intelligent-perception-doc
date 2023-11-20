@@ -14,3 +14,4 @@ Arduino是一款便捷灵活、方便上手的开源电子原型平台。包含�
 - [Arduino Dev board compatible with Nano](https://www.crcibernetica.com/dev-board-compatible-with-nano-cable-included/)
 - [Nano CNC Shield v4](https://www.crcibernetica.com/nano-cnc-shield-v4/)
 - [CNC Kit](https://wiki.keyestudio.com/index.php/Ks0096_keyestudio_CNC_Kit_/_CNC_Shield_V4.0_%2B_Nano_3.0%2B3pcs_a4988_Driver_/_GRBL_Compatible)
+- [智能公元](http://www.smartpi.cn/#/YzsM)
