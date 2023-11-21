@@ -12,18 +12,18 @@
   },
   "devDependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.15",
-    "@rollup/plugin-terser": "^0.4.3",
+    "@rollup/plugin-terser": "^0.4.4",
     "@vuepress/client": "2.0.0-beta.67",
     "@vuepress/plugin-register-components": "2.0.0-beta.67",
     "@vuepress/utils": "2.0.0-beta.67",
     "vue": "^3.3.4",
     "vuepress": "2.0.0-beta.67",
-    "vuepress-plugin-photo-swipe": "2.0.0-beta.237",
-    "vuepress-plugin-search-pro": "2.0.0-beta.237",
-    "vuepress-theme-hope": "2.0.0-beta.237"
+    "vuepress-plugin-photo-swipe": "2.0.0-beta.238",
+    "vuepress-plugin-search-pro": "2.0.0-beta.238",
+    "vuepress-theme-hope": "2.0.0-beta.238"
   },
   "dependencies": {
     "@vuepress/plugin-git": "2.0.0-beta.67",
-    "dayjs": "^1.11.9"
+    "dayjs": "^1.11.10"
   }
 }
