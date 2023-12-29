@@ -6,29 +6,25 @@ export default navbar([
 		link: '/',
 	},
 	{
-		text: '指北',
-		link: '/guide/',
-	},
-	{
-		text: '必修课',
-		prefix: '/technology/',
+		text: '卓越工程师计划',
+		prefix: '/EEProject/',
 		children: [
 			{
-				text: '软件开发',
-				link: 'development/',
+				text: '软件工程类',
+				link: 'SE/',
 			},
 			{
-				text: '人工智能',
-				link: 'ai/',
+				text: '硬件工程类',
+				link: 'EE/',
 			}, {
-				text: '应用领域',
-				link: 'fields/',
+				text: '算法工程类',
+				link: 'AI/',
 			}, {
-				text: '嵌入式',
-				link: 'embedded/',
+				text: '机械工程类',
+				link: 'ME/',
 			}, {
-				text: '服务部署',
-				link: 'deployment/',
+				text: '光学工程类',
+				link: 'OE/',
 			},
 
 		],
