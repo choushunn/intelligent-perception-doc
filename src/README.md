@@ -6,7 +6,7 @@ heroImage: /logo.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 技术指北
-tagline: 我于杀戮之中盛放,亦如黎明中的花朵。
+tagline: 立足于人工智能、深度学习，定位为机器视觉系统的开发制造。研发制造机器视觉、机器人、以及集成机器人和机器视觉应用的智能装备。
 actions:
   - text: 使用指北 💡
     link: ./guide/
@@ -21,6 +21,9 @@ actions:
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2023-Spring
 ---
+
+
+
 <img src="/images/hero.jpg" />
 <!-- <div class="image-preview">
 	<img src="/images/hero.jpg" /> -->
